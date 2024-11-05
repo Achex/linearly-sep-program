@@ -11,4 +11,4 @@ Result after change of basis:\
 \
 Linear seperation on the Z axis shown by taking the 3rd principle component:\
 ![seperation](https://github.com/Achex/linearly-sep-program/blob/master/PC3seperation.JPG)\
-\
+
